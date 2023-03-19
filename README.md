@@ -11,7 +11,7 @@ Job searching, on the go. 💼💨
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## Information ℹ️
-**Need help finding job applications??** <br>
+**Need help finding job applications?** <br>
 Find job postings from LinkedIn, Indeed, Glassdoor, and more in this all in one mobile app!<br> <br>
 **What can I do with this? <br>**
 • Find job postings. <br>
@@ -23,4 +23,4 @@ Find job postings from LinkedIn, Indeed, Glassdoor, and more in this all in one 
 <ins>*React Native*</ins> → Makes our mobile application *beautiful ✨*. <br>
 <ins>*JSearch API*</ins> → Provides job applications from multiple resources, along with their qualifications and description. <br> <br>
 
-*Created by Andrew Dieu, for ShellHacks 2022*
+*Created by Andrew Dieu*
