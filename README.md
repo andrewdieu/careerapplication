@@ -19,7 +19,7 @@ Find job postings from LinkedIn, Indeed, Glassdoor, and more in this all in one 
 • Explore the qualifications and details for each job posting. <br>
 
 ## How? 🤔
-<ins>JavaScript</ins> → Allows our application to function. <br>
+<ins>*JavaScript*</ins> → Allows our application to function. <br>
 <ins>*React Native*</ins> → Makes our mobile application *beautiful ✨*. <br>
 <ins>*JSearch API*</ins> → Provides job applications from multiple resources, along with their qualifications and description. <br> <br>
 
