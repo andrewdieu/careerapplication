@@ -1,5 +1,5 @@
 <h2 align="center">
-Job searching, on the go. 💼 
+Job searching, on the go. 💼💨
 </h2> 
 
 
